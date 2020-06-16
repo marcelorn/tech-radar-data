@@ -1,5 +1,5 @@
 name,ring,quadrant,isNew,description  
-Composer,adopt,infrastructure,TRUE,"Although the idea of dependency management ..."  
-Canary builds,trial,data management,FALSE,"Many projects have external code dependencies ..."  
-Apache Kylin,assess,frameworks,TRUE,"Apache Kylin is an open source analytics solution ..."  
-JSF,deprecated,languages,FALSE,"We continue to see teams run into trouble using JSF ..." 
+PostgreSQL,adopt,data management,TRUE,”A free and open-source relational database management system emphasizing extensibility and SQL compliance."  
+Kubernetes,trial,infrastructure,FALSE,”An open-source container-orchestration system for automating application deployment, scaling, and management."  
+Laravel,hold,frameworks,TRUE,”A web application framework with expressive, elegant syntax."  
+Python,assess,languages,FALSE,”An interpreted, high-level, general-purpose programming language."  
