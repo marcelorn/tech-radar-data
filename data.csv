@@ -1,5 +1,5 @@
-name,ring,quadrant,isNew,description  
+name,ring,quadrant,isNew,description
 PostgreSQL,adopt,data management,TRUE,”A free and open-source relational database management system emphasizing extensibility and SQL compliance."  
 Kubernetes,trial,infrastructure,FALSE,”An open-source container-orchestration system for automating application deployment, scaling, and management."  
-Laravel,hold,frameworks,TRUE,”A web application framework with expressive, elegant syntax."  
-Python,assess,languages,FALSE,”An interpreted, high-level, general-purpose programming language."  
+Python,assess,languages,FALSE,”An interpreted, high-level, general-purpose programming language."
+Laravel,hold,frameworks,TRUE,”A web application framework with expressive, elegant syntax."
